@@ -1,5 +1,7 @@
 # Artem Nazarov
 
+![This is Artem Nazarov](myPhoto.jpg)
+
 ## Contacts 
 * Phone number: +7 (965) 879-77-47
 * Email: nazarovarty@gmail.com
@@ -31,7 +33,7 @@ I have one project at [GITHub.com](https://github.com/Nazarovarty) which is call
 5. GIT and GITHub
 
 ### Code example
-* JavaScript solution 
+1. JavaScript solution 
     + Multiples of 3 or 5
 ```
 function solution(number) {
@@ -44,6 +46,7 @@ function solution(number) {
   return sum
 }
 ```
+2. JavaScript solution 
     + Mumbling
 ```
 function accum(s) {
